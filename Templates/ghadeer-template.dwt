@@ -37,8 +37,9 @@
             <p class="card-text">Relax = ✈️ 📷</p>
           </div>
           <ul class="list-group list-group-flush">
-            <li class="list-group-item"> <a href="http://raghunayyar.com" target="_blank">Website</a> </li>
-            <li class="list-group-item"> <a href="https://twitter.com/raghunayyar" target="_blank">Twitter</a> </li>
+            <li class="list-group-item"> <a href="https://unsplash.com/@izohal94/likes?login_view=is_visible&login_action=message" target="_blank">Ghadeer's Liked Photots</a> </li>
+            
+			  <li class="list-group-item"> <a href="https://unsplash.com/@izohal94/likes?login_view=is_visible&login_action=message&modal=%7B%22userId%22%3A%22_T910kg7BoY%22%2C%22tag%22%3A%22SendMessage%22%7D" target="_blank">Message</a> </li>
             <li class="list-group-item"><a href="https://unsplash.com/@izohal94" target="_blank">Unsplash</a> </li>
           </ul>
         </div>
