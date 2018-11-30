@@ -15,14 +15,25 @@
   </head>
   <body>
     <div class= "container">
-      <!-- TemplateBeginEditable name="edit-page-title" --><h1>Unsplash Photography</h1>
-		
-		<!-- TemplateEndEditable -->
-		
-	
-      <!-- TemplateBeginEditable name="Content" -->
-     
+      <h1>Unsplash Photography</h1>
+      <!-- TemplateBeginEditable name="master-Content" -->
+      <p>this is where content goes</p>
       <!-- TemplateEndEditable -->
+      <div class="row">
+        <div class="col-12 col-sm-6">
+          Made with [love] and [coffee] by Savannah Vizzerra
+        </div>
+        <div class="col-12 col-sm-6">
+          Connect with me: []
+			<a href="https://www.linkedin.com/in/savannahnvizzerra/" target="_blank">LinkedIn</a>
+			
+			<a href="https://www.facebook.com/savannah.vizzerra" target="_blank">Facebook</a>
+			
+			<a href="https://www.instagram.com/savannahvizzerra/?hl=en" target="_blank">Instagram</a>
+			
+			<a href="https://github.com/SavannahVizzerra1" target="_blank">Github</a>
+        </div>
+      </div>
     </div>
     
     <!-- Optional JavaScript --> 
