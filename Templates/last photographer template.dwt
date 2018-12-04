@@ -16,7 +16,7 @@
   </head>
   <body>
     <div class= "container">
-      <!-- InstanceBeginEditable name="edit-title" --><h1>أخٌ في الله</h1><!-- InstanceEndEditable -->
+      <!-- InstanceBeginEditable name="edit-title" --><h1>M.H. Rezza</h1><!-- InstanceEndEditable -->
       
       <!-- InstanceBeginEditable name="master-Content" -->
       <nav>
@@ -24,7 +24,7 @@
           <li class="breadcrumb-item"><a href="file:///Users/savannahvizzerra/Desktop/final-unsplash-project/Templates/index.html">Home</a></li>
     
         <!-- TemplateBeginEditable name="breadcrumb-trail" -->
-        <li class="breadcrumb-item active">أخٌ في الله</li>
+        <li class="breadcrumb-item active">M.H. Rezza</li>
         <!-- TemplateEndEditable -->
 			</ol>
 		  </nav>
@@ -33,8 +33,8 @@
         <div class="col-12 col-sm-6 col-md-3">
           <img class="card-img-top" src="https://images.unsplash.com/profile-1538975456889-9488a82c5ece?auto=format&fit=crop&w=400&h=400&q=60&crop=faces" alt="Card image cap">
           <div class="card-body">
-            <h2 class="card-title">أخٌ في الله</h2>
-            <p class="card-text">Download free, beautiful high-quality photos curated by أخٌ في الله.</p>
+            <h2 class="card-title">M.H. Rezza</h2>
+            <p class="card-text">Download free, beautiful high-quality photos curated by أخٌ في الله. (M.H. Rezza).</p>
           </div>
           <ul class="list-group list-group-flush">
             <li class="list-group-item"> <a href="https://unsplash.com/@mhrezaa/collections?modal=%7B%22userId%22%3A%22frj24vABTnA%22%2C%22tag%22%3A%22SendMessage%22%7D" target="_blank">Message</a> </li>
