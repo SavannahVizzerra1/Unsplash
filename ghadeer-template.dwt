@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="en">
-  <!-- InstanceBegin template="/Templates/master-template.dwt" codeOutsideHTMLIsLocked="false" -->
+  <!-- InstanceBegin template="/master-template.dwt" codeOutsideHTMLIsLocked="false" -->
   <head>
   <!-- Required meta tags -->
   <meta charset="utf-8">
@@ -18,33 +18,33 @@
   <body>
     <div class= "container">
       <!-- InstanceBeginEditable name="edit-title" -->
-      <h1>David Monje</h1>
+      <h1>Ghadeer</h1>
       <!-- InstanceEndEditable --> <!-- InstanceBeginEditable name="master-Content" -->
       <nav>
         <ol class="breadcrumb">
           <li class="breadcrumb-item"><a href="file:///Users/savannahvizzerra/Desktop/final-unsplash-project/Templates/index.html">Home</a></li>
           <!-- TemplateBeginEditable name="breadcrumb-trail" -->
-          <li class="breadcrumb-item active">David Monje</li>
+          <li class="breadcrumb-item active">Ghadeer</li>
+          <li class="breadcrumb-item">Example Photo</li>
           <!-- TemplateEndEditable -->
         </ol>
       </nav>
       <div class="row">
         <div class="col-12 col-sm-6 col-md-3">
-          <img class="card-img-top" src="https://images.unsplash.com/profile-1529104514331-4b8315f67579?auto=format&fit=crop&w=400&h=400&q=60&crop=faces" alt="Card image cap">
+          <img class="card-img-top" src="https://images.unsplash.com/profile-1532066445973-34348a9af47c?auto=format&fit=crop&w=400&h=400&q=60&crop=faces" alt="Card image cap">
           <div class="card-body">
-            <h2 class="card-title">David Monje</h2>
-            <p class="card-text">Studying a degree of Audiovisual and Multimedia.</p>
+            <h2 class="card-title">Ghadeer</h2>
+            <p class="card-text">Relax = ✈️ 📷</p>
           </div>
           <ul class="list-group list-group-flush">
-            <li class="list-group-item"> <a href="https://www.instagram.com/david.monje/" target="_blank">Instagram</a> </li>
+            <li class="list-group-item"> <a href="https://unsplash.com/@izohal94/likes?login_view=is_visible&login_action=message" target="_blank">Ghadeer's Liked Photots</a> </li>
             
-			  <li class="list-group-item"> <a href="https://unsplash.com/@davidmonje?modal=%7B%22userId%22%3A%22NUgQu4INBLc%22%2C%22tag%22%3A%22SendMessage%22%7D" target="_blank">Message</a> </li>
-            
-			  <li class="list-group-item"><a href="https://unsplash.com/@davidmonje" target="_blank">Unsplash</a> </li>
+			  <li class="list-group-item"> <a href="https://unsplash.com/@izohal94/likes?login_view=is_visible&login_action=message&modal=%7B%22userId%22%3A%22_T910kg7BoY%22%2C%22tag%22%3A%22SendMessage%22%7D" target="_blank">Message</a> </li>
+            <li class="list-group-item"><a href="https://unsplash.com/@izohal94" target="_blank">Unsplash</a> </li>
           </ul>
         </div>
         <div class="col-12 col-sm-6 col-md-9">
-          <!-- TemplateBeginEditable name="david monje-content" -->
+          <!-- TemplateBeginEditable name="ghadeer-content" -->
           <p>this is where content goes</p>
           <!-- TemplateEndEditable -->
         </div>
