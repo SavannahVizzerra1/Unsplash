@@ -1,5 +1,6 @@
 <!doctype html>
-<html lang="en"><!-- InstanceBegin template="/master-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en">
+  <!-- InstanceBegin template="/Templates/master-template.dwt" codeOutsideHTMLIsLocked="false" -->
   <head>
   <!-- Required meta tags -->
   <meta charset="utf-8">
@@ -16,53 +17,45 @@
   </head>
   <body>
     <div class= "container">
-      <!-- InstanceBeginEditable name="edit-title" --><h1>Izuddin Helmi Adnan</h1><!-- InstanceEndEditable -->
-      
-      <!-- InstanceBeginEditable name="master-Content" -->
+      <!-- InstanceBeginEditable name="edit-title" -->
+      <h1>Ghadeer</h1>
+      <!-- InstanceEndEditable --> <!-- InstanceBeginEditable name="master-Content" -->
       <nav>
         <ol class="breadcrumb">
           <li class="breadcrumb-item"><a href="file:///Users/savannahvizzerra/Desktop/final-unsplash-project/Templates/index.html">Home</a></li>
-    
-        <!-- TemplateBeginEditable name="breadcrumb-trail" -->
-        <li class="breadcrumb-item active">Izuddin Helmi Adnan</li>
-       
-        <!-- TemplateEndEditable -->
-			</ol>
-		  </nav>
-     
+          <!-- TemplateBeginEditable name="breadcrumb-trail" -->
+          <li class="breadcrumb-item active">Ghadeer</li>
+          <li class="breadcrumb-item">Example Photo</li>
+          <!-- TemplateEndEditable -->
+        </ol>
+      </nav>
       <div class="row">
         <div class="col-12 col-sm-6 col-md-3">
-          <img class="card-img-top" src="https://images.unsplash.com/profile-1508063960004-c2f18dad9a5d?auto=format&fit=crop&w=400&h=400&q=60&crop=faces" alt="Card image cap">
+          <img class="card-img-top" src="https://images.unsplash.com/profile-1532066445973-34348a9af47c?auto=format&fit=crop&w=400&h=400&q=60&crop=faces" alt="Card image cap">
           <div class="card-body">
-            <h2 class="card-title">Izuddin Helmi Adnan</h2>
-            <p class="card-text">These are my phone wallpaper collection that I captured from my country. Most of my shots are from the drone.</p>
+            <h2 class="card-title">Ghadeer</h2>
+            <p class="card-text">Relax = ✈️ 📷</p>
           </div>
           <ul class="list-group list-group-flush">
-            <li class="list-group-item"> <a href="https://unsplash.com/@izuddinhelmi/collections" target="_blank">Collections</a> </li>
-            <li class="list-group-item"> <a href="https://www.instagram.com/izuddinhelmi/?utm_medium=referral&utm_source=unsplash" target="_blank">Instagram</a> </li>
-            <li class="list-group-item"><a href="https://unsplash.com/@izuddinhelmi" target="_blank">Unsplash</a> </li>
+            <li class="list-group-item"> <a href="https://unsplash.com/@izohal94/likes?login_view=is_visible&login_action=message" target="_blank">Ghadeer's Liked Photots</a> </li>
+            
+			  <li class="list-group-item"> <a href="https://unsplash.com/@izohal94/likes?login_view=is_visible&login_action=message&modal=%7B%22userId%22%3A%22_T910kg7BoY%22%2C%22tag%22%3A%22SendMessage%22%7D" target="_blank">Message</a> </li>
+            <li class="list-group-item"><a href="https://unsplash.com/@izohal94" target="_blank">Unsplash</a> </li>
           </ul>
         </div>
         <div class="col-12 col-sm-6 col-md-9">
-          <!-- TemplateBeginEditable name="raghu-nayyar-content" -->
+          <!-- TemplateBeginEditable name="ghadeer-content" -->
           <p>this is where content goes</p>
           <!-- TemplateEndEditable -->
         </div>
       </div>
-       <!-- InstanceEndEditable -->
+      <!-- InstanceEndEditable -->
       <div class="row">
         <div class="col-12 col-sm-6">
           Made with [love] and [coffee] by Savannah Vizzerra
         </div>
         <div class="col-12 col-sm-6">
-          Connect with me: []
-			<a href="https://www.linkedin.com/in/savannahnvizzerra/" target="_blank">LinkedIn</a>
-			
-			<a href="https://www.facebook.com/savannah.vizzerra" target="_blank">Facebook</a>
-			
-			<a href="https://www.instagram.com/savannahvizzerra/?hl=en" target="_blank">Instagram</a>
-			
-			<a href="https://github.com/SavannahVizzerra1" target="_blank">Github</a>
+          Connect with me: [] <a href="https://www.linkedin.com/in/savannahnvizzerra/" target="_blank">LinkedIn</a> <a href="https://www.facebook.com/savannah.vizzerra" target="_blank">Facebook</a> <a href="https://www.instagram.com/savannahvizzerra/?hl=en" target="_blank">Instagram</a> <a href="https://github.com/SavannahVizzerra1" target="_blank">Github</a>
         </div>
       </div>
     </div>
@@ -73,4 +66,5 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script> 
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
   </body>
-<!-- InstanceEnd --></html>
+  <!-- InstanceEnd -->
+</html>
