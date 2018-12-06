@@ -2,11 +2,6 @@
 
 
 
-a:hover {
-	color: #409aa9;
-	text-decoration: none;
-}
-
 
 */
 
@@ -16,11 +11,58 @@ body {
 	font-weight: 100;
 	background-color: #eeeeee;
 }
-
 h1, h2, h3 {
 	font-family: 'Wire One', sans-serif;
 }
-
 a {
 	color: #25333A;
 }
+a:hover {
+	color: #409aa9;
+	text-decoration: none;
+}
+.btn-primary {
+	background-color: #25333A;
+	color: #FFFFFF;
+	border-color: #409AA9;
+	font-weight: 100;
+}
+.btn-primary:hover {
+	background-color: #409AA9;
+	border-color: #409AA9;
+}
+.unsplash-header {
+	background-color: #25333a;
+	color: #ffffff;
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+.unsplash-header h1 small {
+	font-size: .35em;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+}
+.unsplash-header a {
+	color: #ffffff;
+	text-decoration: none;
+	
+}
+.unsplash-header a:hover {
+	color: #ffffff;
+	text-decoration: none;
+}
+.unsplash-footer {
+	background-color: #25333A;	
+	border-top: solid 5px #409aa9;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	margin-top: 2em;
+	color: #ffffff;
+
+}
+.unsplash-footer a {
+	color: #ffffff;
+	font-size: 2em;
+	margin-left: .25em;
+}
+

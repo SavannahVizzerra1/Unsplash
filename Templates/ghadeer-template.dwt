@@ -15,17 +15,22 @@
   <!-- InstanceEndEditable -->
 	  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
 	  
- <link href="https://fonts.googleapis.com/css?family=Playfair+Display|Source+Sans+Pro" rel="stylesheet">
+ <link href="https://fonts.googleapis.com/css?family=Roboto:100|Wire+One" rel="stylesheet">
+	  
 	  <link href="../styles/styles.css" rel="stylesheet" type="text/css">
   </head>
-  <body>
-	  <div class= "unsplash-header">
-	 
-	  <div class= "container unsplash-header">
-		  <h1>Unsplash Photography Spotlight</h1>
 	
-	  </div> 
+	
+  <body>
+	  <div class="unsplash-header">
+		  <div class="container">
+		  	 <h1><a href="../index.html">Unsplash Photography Spotlight <small>by Savannah Vizzerra</small></a></h1>
+		  </div>
 	  </div>
+	 
+	  
+	  
+	  
     <div class= "container">
       <!-- InstanceBeginEditable name="edit-title" -->
       <h1>Ghadeer</h1>
@@ -62,11 +67,16 @@
         </div>
       </div>
       <!-- InstanceEndEditable -->
-      <div class="row">
+	  </div>
+      
+		<div class="unsplash-footer">
+			<div class="container">
+			
+				<div class="row">
         <div class="col-12 col-sm-6">
           Made with <i class="fas fa-heart"></i> and <i class="fas fa-coffee"></i> by Savannah Vizzerra
         </div>
-        <div class="col-12 col-sm-6">
+        <div class="col-12 col-sm-6 text-right">
           Connect with me:
 			<a href="https://www.linkedin.com/in/savannahnvizzerra/" target="_blank"><i class="fab fa-linkedin"></i></a>
 			
@@ -78,7 +88,10 @@
         </div>
       </div>
     </div>
-    
+    	</div>
+		
+		
+		
     <!-- Optional JavaScript --> 
     <!-- jQuery first, then Popper.js, then Bootstrap JS --> 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script> 
