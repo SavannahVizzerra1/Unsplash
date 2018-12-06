@@ -1,37 +1,26 @@
+/*
 
 
-body {
-	font-family: 'Roboto', serif;
-	font-weight: 100;
-	background-color: #EEEEEE;
-}
-
-h1, h5, h3 {font-family: 'Source Sans Pro', serif;}
-
-a {
-	color: #25333A;
-}
 
 a:hover {
 	color: #409aa9;
 	text-decoration: none;
 }
 
-.btn-primary {
-	color: #fff;
-	background-color: #25333a;
-	border-color: #25333a;
+
+*/
+
+
+body {
+	font-family: 'Roboto', sans-serif;
 	font-weight: 100;
-}
-.btn-primary:hover {
-	background-color: #409aa9;
-	border-color: #409aa9;
+	background-color: #eeeeee;
 }
 
-.unsplash-header {
-	background-color: #25333a;
-	padding-top: 1em;
-	padding-bottom: 1em;
-	margin: 0;
-	color: #ffffff;
+h1, h2, h3 {
+	font-family: 'Wire One', sans-serif;
+}
+
+a {
+	color: #25333A;
 }
