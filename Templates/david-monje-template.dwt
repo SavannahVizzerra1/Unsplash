@@ -16,6 +16,7 @@
   <link href="https://fonts.googleapis.com/css?family=Roboto:100|Wire+One" rel="stylesheet">
   <link href="../styles/styles.css" rel="stylesheet" type="text/css">
   <!-- InstanceParam name="home-page-intro" type="boolean" value="false" -->
+  <!-- InstanceParam name="navigation" type="boolean" value="true" -->
   </head>
   
   <body>
@@ -25,28 +26,32 @@
       </div>
     </div>
     
-	  <nav class="unsplash-navigation">
-        <ol class="breadcrumb">
-          <li class="breadcrumb-item"><a href="../index.html">Home</a></li>
-    
+	  <div class="unsplash-navigation">
+	  <div class="container">
+		  <nav>
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="../index.html">Home</a></li>
         <!-- InstanceBeginEditable name="breadcrumb-trail" -->
         <li class="breadcrumb-item active">Raghu Nayyar</li>
         <li class="breadcrumb-item">Example Photo</li>
         <!-- InstanceEndEditable -->
-			</ol>
-		  </nav>
+      </ol>
+    </nav>
+		  </div>
+		  
+	  </div>
+	  
+	 
+    
+    
+	  
+	  
+	  
     <div class= "container">
       <!-- InstanceBeginEditable name="edit-title" -->
       <h1>David Monje</h1>
       <!-- InstanceEndEditable --> <!-- InstanceBeginEditable name="master-Content" -->
-      <nav>
-        <ol class="breadcrumb">
-          <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-          <!-- TemplateBeginEditable name="breadcrumb-trail" -->
-          <li class="breadcrumb-item active">David Monje</li>
-          <!-- TemplateEndEditable -->
-        </ol>
-      </nav>
+      
       <div class="row">
         <div class="col-12 col-sm-6 col-md-3">
           <img class="card-img-top" src="https://images.unsplash.com/profile-1529104514331-4b8315f67579?auto=format&fit=crop&w=400&h=400&q=60&crop=faces" alt="Card image cap">
