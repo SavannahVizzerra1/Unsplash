@@ -37,6 +37,16 @@
       </div>
     </div>
     <!-- TemplateEndIf -->
+	  <nav class="unsplash-navigation">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="../index.html">Home</a></li>
+    
+        <!-- TemplateBeginEditable name="breadcrumb-trail" -->
+        <li class="breadcrumb-item active">Raghu Nayyar</li>
+        <li class="breadcrumb-item">Example Photo</li>
+        <!-- TemplateEndEditable -->
+			</ol>
+		  </nav>
     <div class= "container">
       <!-- TemplateBeginEditable name="edit-title" --> <!-- TemplateEndEditable --> <!-- TemplateBeginEditable name="master-Content" -->
       <p>this is where content goes</p>

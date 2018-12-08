@@ -25,6 +25,16 @@
       </div>
     </div>
     
+	  <nav class="unsplash-navigation">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="../index.html">Home</a></li>
+    
+        <!-- InstanceBeginEditable name="breadcrumb-trail" -->
+        <li class="breadcrumb-item active">Raghu Nayyar</li>
+        <li class="breadcrumb-item">Example Photo</li>
+        <!-- InstanceEndEditable -->
+			</ol>
+		  </nav>
     <div class= "container">
       <!-- InstanceBeginEditable name="edit-title" -->
       <h1>Ghadeer</h1>
@@ -46,10 +56,10 @@
             <p class="card-text">Relax = ✈️ 📷</p>
           </div>
           <ul class="list-group list-group-flush">
-            <li class="list-group-item"> <a href="https://unsplash.com/@izohal94/likes?login_view=is_visible&login_action=message" target="_blank">Ghadeer's Liked Photots</a> </li>
+            <li class="list-group-item"> <a href="https://unsplash.com/@izohal94/likes?login_view=is_visible&login_action=message" target="_blank"> <i class="fas fa-thumbs-up"></i> Ghadeer's Liked Photots</a> </li>
             
-			  <li class="list-group-item"> <a href="https://unsplash.com/@izohal94/likes?login_view=is_visible&login_action=message&modal=%7B%22userId%22%3A%22_T910kg7BoY%22%2C%22tag%22%3A%22SendMessage%22%7D" target="_blank">Message</a> </li>
-            <li class="list-group-item"><a href="https://unsplash.com/@izohal94" target="_blank">Unsplash</a> </li>
+			  <li class="list-group-item"> <a href="https://unsplash.com/@izohal94/likes?login_view=is_visible&login_action=message&modal=%7B%22userId%22%3A%22_T910kg7BoY%22%2C%22tag%22%3A%22SendMessage%22%7D" target="_blank"> <i class="fas fa-envelope"></i> Message</a> </li>
+            <li class="list-group-item"><a href="https://unsplash.com/@izohal94" target="_blank"> <i class="fas fa-camera"></i> Unsplash</a> </li>
           </ul>
         </div>
         <div class="col-12 col-sm-6 col-md-9">

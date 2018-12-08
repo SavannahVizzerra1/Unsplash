@@ -25,6 +25,16 @@
       </div>
     </div>
     
+	  <nav class="unsplash-navigation">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="../index.html">Home</a></li>
+    
+        <!-- InstanceBeginEditable name="breadcrumb-trail" -->
+        <li class="breadcrumb-item active">Raghu Nayyar</li>
+        <li class="breadcrumb-item">Example Photo</li>
+        <!-- InstanceEndEditable -->
+			</ol>
+		  </nav>
     <div class= "container">
       <!-- InstanceBeginEditable name="edit-title" -->
       <h1>David Monje</h1>
@@ -45,11 +55,11 @@
             <p class="card-text">Studying a degree of Audiovisual and Multimedia.</p>
           </div>
           <ul class="list-group list-group-flush">
-            <li class="list-group-item"> <a href="https://www.instagram.com/david.monje/" target="_blank">Instagram</a> </li>
+            <li class="list-group-item"> <a href="https://www.instagram.com/david.monje/" target="_blank"> <i class="fab fa-instagram"></i> Instagram</a> </li>
             
-			  <li class="list-group-item"> <a href="https://unsplash.com/@davidmonje?modal=%7B%22userId%22%3A%22NUgQu4INBLc%22%2C%22tag%22%3A%22SendMessage%22%7D" target="_blank">Message</a> </li>
+			  <li class="list-group-item"> <a href="https://unsplash.com/@davidmonje?modal=%7B%22userId%22%3A%22NUgQu4INBLc%22%2C%22tag%22%3A%22SendMessage%22%7D" target="_blank"> <i class="fas fa-envelope"></i> Message</a> </li>
             
-			  <li class="list-group-item"><a href="https://unsplash.com/@davidmonje" target="_blank">Unsplash</a> </li>
+			  <li class="list-group-item"><a href="https://unsplash.com/@davidmonje" target="_blank"> <i class="fas fa-camera"></i> Unsplash</a> </li>
           </ul>
         </div>
         <div class="col-12 col-sm-6 col-md-9">
