@@ -1,7 +1,4 @@
-/*
 
-
-*/
 
 body {
 	font-family: 'Roboto', sans-serif;
@@ -69,9 +66,6 @@ a:hover {
 	margin-bottom: 2em;
 }
 
-
-
- 
 .unsplash-navigation {
 	background-color: #409aa9;
 	padding-top: .5em;
@@ -96,8 +90,30 @@ a:hover {
 	font-weight: 400;
 }
 
-
-
 .breadcrumb-item+.breadcrumb-item::before {
 	color: #ffffff;
 }
+
+dt {
+	font-family: 'Wire One', sans-serif;
+	font-size: 1.75em;
+}
+
+dd strong {
+	font-size: 2em;
+	font-weight: 100;
+}
+
+dd {
+	margin: 0;
+	padding: 0;
+	line-height: 1.5em;
+	font-size: .8em;
+	font-weight: 100;
+}
+
+
+
+
+
+
