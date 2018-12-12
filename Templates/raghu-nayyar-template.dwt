@@ -31,8 +31,7 @@
           <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="../index.html">Home</a></li>
             <!-- InstanceBeginEditable name="breadcrumb-trail" -->
-            <li class="breadcrumb-item">Inactive Link</li>
-            <li class="breadcrumb-item active">Active Link</li>
+            
             <!-- InstanceEndEditable -->
           </ol>
         </nav>
